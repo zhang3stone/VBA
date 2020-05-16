@@ -1,7 +1,5 @@
-'Remove Workbook Protection：
+'Remove Workbook Protection
 
-'打开要解除保护的EXCEL ALT+F11----插入模块----复制粘贴代码----F5
-============================代码===================================
 Public Sub AllInternalPasswords()
 ' Breaks worksheet and workbook structure passwords. Bob McCormick
 ' probably originator of base code algorithm modified for coverage
